@@ -72,7 +72,3 @@ Launchpad page:
 Code is hosted on github:
 
     https://github.com/stackforge/rally
-
-Trello board:
-
-    https://trello.com/b/DoD8aeZy/rally
